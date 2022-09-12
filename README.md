@@ -13,5 +13,5 @@ except where explicitly indicated in the text. The report may be freely copied a
 provided the source is explicitly acknowledged.
 
 
-This repository contain the code for my MSc DSML project. The visulisation of the results of 4 experiments are also included.
+This repository contain the code for my MSc DSML project. The visualisation  of the results of 4 experiments are also included.
 
