@@ -12,3 +12,6 @@ Machine Learning at University College London. It is substantially the result of
 except where explicitly indicated in the text. The report may be freely copied and distributed
 provided the source is explicitly acknowledged.
 
+
+This repository contain the code for my MSc DSML project. The visulisation of the results of 4 experiments are also included.
+
