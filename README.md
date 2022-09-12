@@ -1,7 +1,10 @@
 # MSc-project
 Candidate Number: RRXZ7
+
 Supervisor: Prof. Gary Zhang, Dr. Prabhjot Kaur
+
 Program: MSc Data Science and Machine Learning
+
 Submission date: 12, September, 2022
 
 Disclaimer: This report is submitted as part requirement for the MSc Data Science and
